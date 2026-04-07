@@ -1,0 +1,4 @@
+ERROR: Nothing PROVIDES 'core-image-aesd'. Close matches:
+  core-image-base
+  core-image-sato-sdk
+  core-image-weston

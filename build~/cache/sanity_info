@@ -1,0 +1,4 @@
+SANITY_VERSION 1
+TMPDIR /home/mjoshi/assignment-6-mishajoshi/build~/tmp
+SSTATE_DIR /home/mjoshi/assignment-6-mishajoshi/build~/sstate-cache
+NATIVELSBSTRING ubuntu-22.04
